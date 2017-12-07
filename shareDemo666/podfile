@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+inhibit_all_warnings!
+#use_frameworks!
+target 'shareDemo666' do
+    pod 'UMengUShare/UI'
+    pod 'UMengUShare/Social/ReducedWeChat'
+    pod 'UMengUShare/Social/ReducedQQ'
+    pod 'UMengUShare/Social/ReducedSina'
+    pod 'Masonry', '~> 1.0.2'
+
+
+end

@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.0.2)
+  - UMengUShare/Core (6.4.7):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.7)
+  - UMengUShare/Social/ReducedQQ (6.4.7):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.7):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.7):
+    - UMengUShare/Core
+  - UMengUShare/UI (6.4.7):
+    - UMengUShare/Core
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  UMengUShare: 5055d0e01c844379e173bdca0840fc9fa9297d88
+
+PODFILE CHECKSUM: 761cdb45eb6faacf9b0255079d691b4fb0ec5e53
+
+COCOAPODS: 1.4.0.beta.1
